@@ -1,4 +1,4 @@
-defmodule Metex.MixProject do
+defmodule MetexWithOtp.MixProject do
   use Mix.Project
 
   def project do
